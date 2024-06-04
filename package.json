@@ -26,6 +26,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+  },
+  "peerDependencies": {
     "react-native-svg": "^9.3.3"
   },
   "author": "",
