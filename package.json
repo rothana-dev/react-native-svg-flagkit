@@ -1,6 +1,6 @@
 {
   "name": "react-native-svg-flagkit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SVG flag for react-native",
   "main": "index.js",
   "repository": {
@@ -29,6 +29,9 @@
   },
   "peerDependencies": {
     "react-native-svg": "^9.3.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "ISC"
