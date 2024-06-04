@@ -1,6 +1,6 @@
 {
-  "name": "react-native-svg-flagkit",
-  "version": "0.0.3",
+  "name": "@gronda-team/react-native-svg-flagkit",
+  "version": "0.0.4",
   "description": "SVG flag for react-native",
   "main": "index.js",
   "repository": {
