@@ -1,14 +1,14 @@
 {
-  "name": "@gronda-team/react-native-svg-flagkit",
+  "name": "@rothana-dev/react-native-svg-flagkit",
   "version": "0.0.4",
   "description": "SVG flag for react-native",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gronda-team/react-native-svg-flagkit.git"
+    "url": "https://github.com/rothana-dev/react-native-svg-flagkit.git"
   },
   "bugs": {
-    "url": "https://github.com/gronda-team/react-native-svg-flagkit/issues"
+    "url": "https://github.com/rothana-dev/react-native-svg-flagkit/issues"
   },
   "keywords": [
     "react-component",
@@ -18,9 +18,7 @@
     "flag",
     "ios",
     "android",
-    "svg",
-    "國旗",
-    "国旗"
+    "svg"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,7 +26,7 @@
   "dependencies": {
   },
   "peerDependencies": {
-    "react-native-svg": "^9.3.3"
+    "react-native-svg": "^15.3.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
