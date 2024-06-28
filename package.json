@@ -1,5 +1,5 @@
 {
-  "name": "@rothana-dev/react-native-svg-flagkit",
+  "name": "react-native-svg-flagkit",
   "version": "0.0.4",
   "description": "SVG flag for react-native",
   "main": "index.js",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
   },
-  "peerDependencies": {
+  "overrides": {
     "react-native-svg": "^15.3.0"
   },
   "publishConfig": {
